@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 64262228,
+      "firstName": "Lindsay",
+      "lastName": "Conroy",
+      "email": "Adolph98@gmail.com"
+    },
+    {
+      "id": 38708242,
+      "firstName": "Eldora",
+      "lastName": "Klocko",
+      "email": "Susanna_Wintheiser4@hotmail.com"
+    },
+    {
+      "id": 43822609,
+      "firstName": "Meghan",
+      "lastName": "Erdman",
+      "email": "Brain75@gmail.com"
+    },
+    {
+      "id": 65812914,
+      "firstName": "Antonietta",
+      "lastName": "Raynor",
+      "email": "Declan4@gmail.com"
+    }
+  ]
+}
